@@ -1,2 +1,4 @@
 # ugh
-Common software issues and solutions w/ personal tech stuff
+Cheatsheets for common tech issues, project setup, deployment process stuff.
+
+> Ugh, don't you just hate setting up Apache *again*?
